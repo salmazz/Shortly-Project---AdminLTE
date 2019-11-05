@@ -1,6 +1,13 @@
 <html>
 <head></head>
 <body>
-    <div>The page you are looking for is not found</div>
+    <div>
+
+       <h1>
+
+        The page in not found
+       </h1>
+
+    </div>
 </body>
 </html>
